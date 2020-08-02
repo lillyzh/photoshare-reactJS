@@ -1,0 +1,8 @@
+.date-time{
+  position: relative;
+  font-size: 6pt;
+  text-align: right;
+}
+.box{
+  background-color: #ef5350 red lighten-1;
+}

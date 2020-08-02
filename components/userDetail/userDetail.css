@@ -1,0 +1,14 @@
+.title{
+  font-size: 18pt;
+  font-weight: bold;
+}
+.content{
+  font-size: 18pt;
+  font-weight: normal;
+}
+
+.waves-effect {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+  }
