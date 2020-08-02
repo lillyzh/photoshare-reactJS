@@ -3,6 +3,12 @@
 ## App Description
 A facebook like web application that lets user save their favorite photos, like/dislike friends' photos and leave comments on them. 
 
+## Technology used
+ReactJS
+Node.js
+MongoDB
+Javascript
+
 ## Links to App Video
 
 https://www.youtube.com/watch?v=e6WQQ8aqdkw
