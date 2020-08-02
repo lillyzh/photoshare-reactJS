@@ -6,7 +6,7 @@ A full stack web application that lets user save their favorite photos, like/dis
 ## Technology Used
 ReactJS, Node.js, MongoDB, Javascript
 
-## Links to App Video
+## Links to App Walkthrough
 
 https://www.youtube.com/watch?v=e6WQQ8aqdkw
 
