@@ -27,7 +27,7 @@
     "materialize-css": "^1.0.0",
     "moment": "^2.24.0",
     "mongodb": "^3.1.13",
-    "mongoose": "^4.3.4",
+    "mongoose": "^4.13.21",
     "multer": "^1.4.1",
     "packery": "^2.1.2",
     "prismjs": "^1.15.0",
